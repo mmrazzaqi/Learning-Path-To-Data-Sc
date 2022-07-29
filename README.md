@@ -6,3 +6,4 @@ I am doing Machine Learning starting from Scratch.
 
 ## Tasks
 1- Numpy
+2- Pandas

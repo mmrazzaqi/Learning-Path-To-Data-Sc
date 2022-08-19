@@ -1,4 +1,5 @@
 # Classification
+
 MNIST
 Training a Binary Classifier
 Performance Measures
@@ -7,6 +8,7 @@ Performance Measures
 > Precision and Recall 
 > Precision/Recall Tradeoff 
 > The ROC Curve 
+
 Multiclass Classification 
 Error Analysis 
 Multilabel Classification 

@@ -5,6 +5,7 @@ I have started to document my coding journey.
 I am doing Machine Learning starting from Scratch.
 
 ## Tasks
+0. Python
 1. Numpy
      - Data preprocessing with Numpy
 2. Pandas
@@ -18,3 +19,6 @@ I am doing Machine Learning starting from Scratch.
 7. Support Vector Machine
     - SVM from scratch (Python)
     - SVM Exercise
+8. Decision Trees
+9. Ensemble Learning and Random Forests
+10. Dimensionality Reduction
